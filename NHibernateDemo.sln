@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateDemo", "NHibernateDemo\NHibernateDemo.csproj", "{962681D5-BACE-4318-BE26-24F7FBA53BBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateDemo.Tests", "NHibernateDemo.Test\NHibernateDemo.Tests.csproj", "{6F3E936D-C29C-42E8-AD4A-8068AC893131}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateDemo.Tests", "NHibernateDemo.Tests\NHibernateDemo.Tests.csproj", "{6F3E936D-C29C-42E8-AD4A-8068AC893131}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
